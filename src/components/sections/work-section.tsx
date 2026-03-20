@@ -24,22 +24,22 @@ export function WorkSection() {
           {[
             {
               number: "01",
-              title: "ТехноСтарт",
-              category: "Корпоративный портал",
+              title: "NovaPay",
+              category: "SaaS · Финансовая платформа",
               year: "2024",
               direction: "left",
             },
             {
               number: "02",
-              title: "АльфаТрейд",
-              category: "Финтех платформа",
+              title: "Пространство",
+              category: "Веб-приложение · Рынок недвижимости",
               year: "2024",
               direction: "right",
             },
             {
               number: "03",
-              title: "МедиаПульс",
-              category: "Медиа сервис",
+              title: "PulseHR",
+              category: "HR-tech · Корпоративный портал",
               year: "2023",
               direction: "left",
             },
